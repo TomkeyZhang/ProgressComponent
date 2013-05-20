@@ -4,5 +4,7 @@
     <string name="app_name">ProgressComponent</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="content_empty">空</string>
+    <string name="content_error">出错了</string>
 
 </resources>
